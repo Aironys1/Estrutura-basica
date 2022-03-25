@@ -1,0 +1,15 @@
+h1{
+    text-align: center;
+    color: chocolate;
+}
+
+body{
+    background-color:rgb(211, 238, 180);
+}
+
+p{
+    font-weight: bold;
+    font-size:20px;
+    margin-left: 30px;
+    margin-top: 50px;
+}
